@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Толь бичиг</string>
+		<dict>
+			<key>name</key>
+			<string>Англи-Монгол</string>
+			<key>icon</key>
+			<string>engmon.png</string>
+			<key>data</key>
+			<string>engmon</string>
+			<key>description</key>
+			<string>Интернэтээр тархсан үнэгүй &quot;үгсийн сан&quot;-уудаас бүрдсэн Англи-Монгол толь бичиг</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Монгол-Англи</string>
+			<key>icon</key>
+			<string>moneng.png</string>
+			<key>data</key>
+			<string>moneng</string>
+			<key>description</key>
+			<string>Интернэтээр тархсан үнэгүй &quot;үгсийн сан&quot;-уудаас бүрдсэн Монгол-Англи толь бичиг</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Монгол-Монгол</string>
+			<key>icon</key>
+			<string>monmon.png</string>
+			<key>data</key>
+			<string>monmon</string>
+			<key>description</key>
+			<string>http://www.query.mn-ээс, олон нийтийн дэмжлэгтэйгээр бүрдүүлсэн &quot;үгсийн сан&quot;-д суурилсан Монгол-Монгол толь бичиг</string>
+		</dict>
+	</array>
+	<array>
+		<string>Чөлөөт цаг</string>
+		<dict>
+			<key>name</key>
+			<string>Онигоо</string>
+			<key>icon</key>
+			<string>jokes.png</string>
+			<key>data</key>
+			<string>jokes</string>
+			<key>description</key>
+			<string>Интернэт дэх онигоонуудын цуглуулгаас бүрдсэн сан</string>
+		</dict>
+	</array>
+	<array>
+		<string>Танин мэдэхүй</string>
+		<dict>
+			<key>name</key>
+			<string>Үндсэн Хууль</string>
+			<key>icon</key>
+			<string>laws.png</string>
+			<key>data</key>
+			<string>laws</string>
+			<key>description</key>
+			<string>1992 оны 2 дугаар сарын 12-оос хойш мөрдөгдөж буй Монгол Улсын Үндсэн Хууль</string>
+		</dict>
+	</array>
+</array>
+</plist>
